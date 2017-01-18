@@ -10,4 +10,3 @@ Go ahead and contact me for any further information or inquiries.
 * Phone: (321) 368-2103
 * Email: patrickabiney@gmail.com
 * Address: Old Irving Park, Chicago, IL, 60641
-* LinkedIn: https://www.linkedin.com/in/patrick-abiney-0393abb0
