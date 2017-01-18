@@ -3,7 +3,7 @@ title:              Patrick Abiney Portfolio
 email:              patrickabiney@gmail.com
 description:        "Patrick Abiney's Portfolio"
 url:                "http://localhost:4000"
-baseurl:            /Portfolio
+baseurl:            /msr-student-template
 
 # File structure settings
 image_path:         /public/images
