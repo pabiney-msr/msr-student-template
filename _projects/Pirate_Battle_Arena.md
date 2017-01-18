@@ -1,8 +1,9 @@
 ---
 layout: project
 title: Pirate Battle Arena
-date: July, 2015 - February, 2016
+image: http://unsplash.it/400/200?random
 ---
+### Jul 2015 - Feb 2016
 
 ## Overview
 An Unreal Engine 4 game prototype & proof of concept. Players would play as a pirate ship in a sea-based battle arena.
