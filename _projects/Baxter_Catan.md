@@ -18,7 +18,8 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/baxter.j
 *
 
 ## YouTube
-https://www.youtube.com/watch?v=UzhP7HdbdNM&feature=youtu.be
+<iframe width="480" height="390" src="https://www.youtube.com/embed/UzhP7HdbdNM" frameborder="0" allowfullscreen></iframe>
+
 
 ## GitHub
 https://github.com/harishchockalingam2017/Final-Project-ME495-Group1
