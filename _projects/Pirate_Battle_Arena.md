@@ -1,8 +1,8 @@
 ---
 layout: project2
 title: Pirate Battle Arena
-image: https://pabiney-msr.github.io/msr-student-template/images/kraken.png
-image2: https://pabiney-msr.github.io/msr-student-template/images/krakenvsland.png
+image: https://pabiney-msr.github.io/msr-student-template/public/images/kraken.png
+image2: https://pabiney-msr.github.io/msr-student-template/public/images/krakenvsland.png
 ---
 ### Jul 2015 - Feb 2016
 ## Overview

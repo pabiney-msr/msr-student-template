@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Discerning and Completing Objectives with an Artificial Neural Network in a Semi-Stochastic Environment
-image: https://pabiney-msr.github.io/msr-student-template/images/msr-winter-project.png
+image: https://pabiney-msr.github.io/msr-student-template/public/images/msr-winter-project.png
 ---
 ### Jan 2017 - Mar 2017
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: FPGA-CPU Communication via an External Memory Interface
-image: https://pabiney-msr.github.io/msr-student-template/images/FPGA-CPU.jpg
+image: https://pabiney-msr.github.io/msr-student-template/public/images/FPGA-CPU.jpg
 ---
 ### Jan 2017 - Mar 2017
 
