@@ -13,6 +13,10 @@ FPGA, Embedded CPU, Micro-Processor, MPU, ARM, EMIF
 
 ### Contribution
 * 
+* Presentations
+* Team Meetings
+* Weekly Updates
+* Paper
 
 ### Technologies Used
 * FPGA (Altera Cyclone IV)
@@ -22,3 +26,6 @@ FPGA, Embedded CPU, Micro-Processor, MPU, ARM, EMIF
 *
 
 ## Paper
+
+
+## Kernel Module Sample

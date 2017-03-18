@@ -4,7 +4,7 @@ title: Pirate Battle Arena
 image: https://pabiney-msr.github.io/msr-student-template/images/kraken.png
 ---
 ### Jul 2015 - Feb 2016
-https://pabiney-msr.github.io/msr-student-template/images/krakenvsland.png
+image: https://pabiney-msr.github.io/msr-student-template/images/krakenvsland.png
 ## Overview
 An Unreal Engine 4 game prototype & proof of concept. Players would play as a pirate ship in a sea-based battle arena.
 

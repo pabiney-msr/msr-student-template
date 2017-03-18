@@ -1,7 +1,7 @@
 ---
 layout: project
 title: UnNatural Selection
-image: https://pabiney-msr.github.io/msr-student-template/_images/game-project-unnatural-selection.jpg
+image: https://pabiney-msr.github.io/msr-student-template/images/game-project-unnatural-selection.png
 ---
 ### Jan 2013 - May 2013
 
