@@ -12,4 +12,6 @@ Patrick is currently pursuing a M.S. in Robotics at Northwestern University. He 
 * Robotics
 * Artificial Neural Networks
 * Videogame Development
+* Mechatronics
+* Low-Level Software
 * Computational Neuroscience

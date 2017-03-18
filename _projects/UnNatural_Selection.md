@@ -30,10 +30,11 @@ OOP, Visual Studio, C++, GLSL, FMOD 3, OpenGL, Hansoft, Shaders
 * PhotoShop
 
 ### YouTube
-https://www.youtube.com/watch?v=lxLnIZ8Q3b4
+<iframe width="480" height="390" src="https://www.youtube.com/embed/lxLnIZ8Q3b4" frameborder="0" allowfullscreen></iframe>
 
 ### Review
-http://www.fullsailblog.com/play-three-new-games-from-mays-final-presentations
+<a href="http://www.fullsailblog.com/play-three-new-games-from-mays-final-presentations" />
+
 
 ### Game
-http://gameproject.fullsail.com/gpgames/index.php/2013/05/unnatural-selection/
+<a href="http://gameproject.fullsail.com/gpgames/index.php/2013/05/unnatural-selection/" />
