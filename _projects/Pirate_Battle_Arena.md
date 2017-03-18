@@ -1,12 +1,15 @@
 ---
 layout: project
 title: Pirate Battle Arena
-image: http://unsplash.it/400/200?random
+image: https://pabiney-msr.github.io/msr-student-template/_images/kraken.png
 ---
 ### Jul 2015 - Feb 2016
-
+https://pabiney-msr.github.io/msr-student-template/_images/krakenvsland.png
 ## Overview
 An Unreal Engine 4 game prototype & proof of concept. Players would play as a pirate ship in a sea-based battle arena.
+
+## Keywords
+Unreal Engine 4, C++, Ragdoll Physics, Microsoft Visual Studio, Amazon Web Services, WWise, Jenkins, Flocking AI, Component Architecture
 
 ### Contribution
 * Implemented flocking behaviors for sea life.

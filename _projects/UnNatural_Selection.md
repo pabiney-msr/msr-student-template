@@ -1,12 +1,15 @@
 ---
 layout: project
 title: UnNatural Selection
-image: http://unsplash.it/400/200?random
+image: https://pabiney-msr.github.io/msr-student-template/_images/game-project-unnatural-selection.jpg
 ---
 ### Jan 2013 - May 2013
 
 ## Overview
 A 3D Hack-n-Slash game built on a custom engine. A single player plays as one of several woodland creatures that battles others in a fantasy forest arena.
+
+## Keywords
+OOP, Visual Studio, C++, GLSL, FMOD 3, OpenGL, Hansoft, Shaders
 
 ### Contribution
 * Team Lead skills including team management & liaison to producers.
@@ -25,3 +28,12 @@ A 3D Hack-n-Slash game built on a custom engine. A single player plays as one of
 * OpenGL
 * Hansoft
 * PhotoShop
+
+### YouTube
+https://www.youtube.com/watch?v=lxLnIZ8Q3b4
+
+### Review
+http://www.fullsailblog.com/play-three-new-games-from-mays-final-presentations
+
+### Game
+http://gameproject.fullsail.com/gpgames/index.php/2013/05/unnatural-selection/
