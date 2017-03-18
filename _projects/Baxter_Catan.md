@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Baxter Catan
-image: https://pabiney-msr.github.io/msr-student-template/_images/baxter.jpg
+image: https://pabiney-msr.github.io/msr-student-template/images/baxter.jpg
 ---
 ### Nov 2016 - Dec 2016
 

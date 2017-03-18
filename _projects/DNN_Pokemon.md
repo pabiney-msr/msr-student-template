@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Discerning and Completing Objectives with an Artificial Neural Network in a Semi-Stochastic Environment
-image: https://pabiney-msr.github.io/msr-student-template/_images/msr-winter-project.jpg
+image: https://pabiney-msr.github.io/msr-student-template/images/msr-winter-project.jpg
 ---
 ### Jan 2017 - Mar 2017
 
@@ -13,14 +13,12 @@ TFLearn, TensorFlow, Python, OpenCV, Matplotlib, Linux, Convolutional Neural Net
 
 ### Work Done
 * Research of CNN, LSTM, Reinfrocement Learning, etc.
-* Test Application
-** Test Sub-Process Launch Python Application
-** Test Screen Capturing Python Application
-** Test Keyboard Input Generation Application
+* Test Sub-Process Launch Python Application
+* Test Screen Capturing Python Application
+* Test Keyboard Input Generation Application
 * Sample Gathering Python Application
-* Pokemon Playing DNN Python Application
-** Neural Network Training
-** Neural Network Evaluation
+* Neural Network Training
+* Neural Network Evaluation
 * Paper
 
 ### Technologies Used
