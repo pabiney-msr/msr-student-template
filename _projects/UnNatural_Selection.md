@@ -6,10 +6,12 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/game-pro
 ### Jan 2013 - May 2013
 
 ## Overview
+<iframe align="right" width="480" height="390" src="https://www.youtube.com/embed/lxLnIZ8Q3b4" frameborder="0" allowfullscreen></iframe>
 A 3D Hack-n-Slash game built on a custom engine. A single player plays as one of several woodland creatures that battles others in a fantasy forest arena.
 
-## Keywords
-OOP, Visual Studio, C++, GLSL, FMOD 3, OpenGL, Hansoft, Shaders
+<b><i>Keywords: OOP, Visual Studio, C++, GLSL, FMOD 3, OpenGL, Hansoft, Shaders</i></b>
+
+<a href="http://gameproject.fullsail.com/gpgames/index.php/2013/05/unnatural-selection/">Play Game</a>
 
 ### Contribution
 * Team Lead skills including team management & liaison to producers.
@@ -28,9 +30,3 @@ OOP, Visual Studio, C++, GLSL, FMOD 3, OpenGL, Hansoft, Shaders
 * OpenGL
 * Hansoft
 * PhotoShop
-
-### YouTube
-<iframe width="480" height="390" src="https://www.youtube.com/embed/lxLnIZ8Q3b4" frameborder="0" allowfullscreen></iframe>
-
-### Game
-<a href="http://gameproject.fullsail.com/gpgames/index.php/2013/05/unnatural-selection/" />

@@ -8,13 +8,12 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/FPGA-CPU
 ## Overview
 Implementation of a FPGA-CPU bridge for communication between a TI AM1808 ARM CPU and an Altera FPGA over the exposed EMIFA bus on the ARM CPU, which provides an interface of synchronous & asynchronous RAM, as well as DMA channelsupport. In the end, we were able to verify successful write operations to the FPGA, however, we were unsuccessful at read operations.
 
-## Keywords
-<b><i>FPGA, Embedded CPU, Micro-Processor, MPU, ARM, EMIF</i></b>
+<b><i>Keywords: FPGA, Embedded CPU, Micro-Processor, MPU, ARM, EMIF, C, GCC</i></b>
 
 ### Contribution
 * Paired Programming
 * Debugging
-* 
+* Oscilloscope Probing
 * Presentations
 * Team Meetings
 * Weekly Updates
@@ -22,17 +21,20 @@ Implementation of a FPGA-CPU bridge for communication between a TI AM1808 ARM CP
 
 ### Technologies Used
 * FPGA (Altera Cyclone IV)
-* ARM CPU (AM1808)
+* ARM CPU (TI AM1808)
 * EMIF
 * 500 Mhz Oscilloscope
 * C
+* GCC
 
-## Paper
+<a href="">
+### Paper
+</a>
 <q>
 
 </q>
 
-## Kernel Module Sample
+### Kernel Module Sample
 <q>
 
 </q>

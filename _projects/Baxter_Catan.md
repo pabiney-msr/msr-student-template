@@ -6,10 +6,10 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/baxter.j
 ### Dec 2016 - Dec 2016
 
 ## Overview
-<iframe align="left" width="480" height="390" src="https://www.youtube.com/embed/UzhP7HdbdNM" frameborder="0" allowfullscreen></iframe>
+<iframe align="right" width="480" height="390" src="https://www.youtube.com/embed/UzhP7HdbdNM" frameborder="0" allowfullscreen></iframe>
 
-## Keywords
-<b><i> </i></b>
+<b><i> Keywords: Baxter, ROS, OpenCV, Python, Robotics</i></b>
+<a href="https://github.com/harishchockalingam2017/Final-Project-ME495-Group1">GitHub</a>
 
 ### Contribution
 * GitHub
@@ -25,6 +25,3 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/baxter.j
 * ROS
 * Python
 * OpenCV
-
-## GitHub
-<a href="https://github.com/harishchockalingam2017/Final-Project-ME495-Group1" />
