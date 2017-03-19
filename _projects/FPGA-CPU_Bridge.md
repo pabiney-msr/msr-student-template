@@ -3,9 +3,9 @@ layout: project
 title: FPGA-CPU Communication via an External Memory Interface
 image: https://pabiney-msr.github.io/msr-student-template/public/images/FPGA-CPU.jpg
 ---
-<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/FPGA-CPU.jpg"/>
-<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/result_wr.jpg"/>
-<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/FPGA-ARMblockdiagram.jpg"/>
+<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/FPGA-CPU.jpg"/>
+<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/result_wr.jpg"/>
+<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/FPGA-ARMblockdiagram.png"/>
 <h1 id="project-title">{{ page.title }}</h1>
 ### Jan 2017 - Mar 2017
 
