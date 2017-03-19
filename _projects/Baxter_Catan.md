@@ -24,6 +24,7 @@ In the board game Settlers of Catan, the board is composed of hexagonal tiles th
 * Moving pieces on the board
 
 <b><i> Keywords: Baxter, ROS, OpenCV, Python, Robotics</i></b>
+<br>
 <a href="https://github.com/harishchockalingam2017/Final-Project-ME495-Group1">GitHub</a>
 
 ### Tasks
