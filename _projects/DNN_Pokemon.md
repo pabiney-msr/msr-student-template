@@ -3,6 +3,7 @@ layout: project
 title: Discerning and Completing Objectives with an Artificial Neural Network in a Semi-Stochastic Environment
 image: https://pabiney-msr.github.io/msr-student-template/public/images/msr-winter-project.png
 ---
+<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/msr-winter-project.png" />
 ### Jan 2017 - Mar 2017
 
 ## Overview
@@ -10,7 +11,7 @@ An artificial neural network project investigating Convolutional and Long Short 
 <b><i>Keywords: TFLearn, TensorFlow, Python, OpenCV, Matplotlib, Linux, Convolutional Neural Network (CNN), Long Short Term Memory (LSTM), Reinforcement Learning</i></b>
 <a href="https://github.com/pabiney-msr/MSR_Winter_Project">GitHub</a>
 
-### Work Done
+### Tasks
 * Research of CNN, LSTM, Reinfrocement Learning, etc.
 * Test Sub-Process Launch Python Application
 * Test Screen Capturing Python Application
@@ -32,9 +33,8 @@ An artificial neural network project investigating Convolutional and Long Short 
 * Reinforcement Learning
 * GitHub
 
-<a href="">
 ### Paper
-</a>
 <q>
 
 </q>
+<a href="">Read More</a>

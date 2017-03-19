@@ -3,6 +3,7 @@ layout: project
 title: FPGA-CPU Communication via an External Memory Interface
 image: https://pabiney-msr.github.io/msr-student-template/public/images/FPGA-CPU.jpg
 ---
+<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/FPGA-CPU.jpg"/>
 ### Jan 2017 - Mar 2017
 
 ## Overview
@@ -10,7 +11,7 @@ Implementation of a FPGA-CPU bridge for communication between a TI AM1808 ARM CP
 
 <b><i>Keywords: FPGA, Embedded CPU, Micro-Processor, MPU, ARM, EMIF, C, GCC</i></b>
 
-### Contribution
+### Tasks
 * Paired Programming
 * Debugging
 * Oscilloscope Probing
@@ -27,9 +28,8 @@ Implementation of a FPGA-CPU bridge for communication between a TI AM1808 ARM CP
 * C
 * GCC
 
-<a href="">
 ### Paper
-</a>
+<a href="">Read More</a>
 <q>
 
 </q>

@@ -3,6 +3,7 @@ layout: project
 title: Field Service Group Vehicle Tracker
 image: https://pabiney-msr.github.io/msr-student-template/public/images/SharePoint.png
 ---
+<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/SharePoint.png"/>
 ### Jul 2014 - Dec 2014
 
 ## Overview
@@ -10,7 +11,7 @@ A SharePoint 2007 front end site with a SQL back end. Technicians could submit t
 
 <b><i>Keywords: SharePoint, Web Parts, JavaScript, jQuery, SPServices, CSS, ROM, SQL</i></b>
 
-### Contribution
+### Tasks
 * Made SharePoint list to act as repository for vehicle reports.
 * Used jQuery to call SQL Web Service, modify list CSS.
 * Enabled versioning to backup reports.
