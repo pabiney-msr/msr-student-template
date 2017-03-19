@@ -1,14 +1,9 @@
 ---
 layout: project
 title: FPGA-CPU Communication via an External Memory Interface
-image: https://pabiney-msr.github.io/msr-student-template/public/images/FPGA-CPU.jpg
+image: https://pabiney-msr.github.io/msr-student-template/public/images/result_wr.jpg
 ---
 <table align="right">
-	<tr>
-		<td>
-			<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/FPGA-CPU.jpg"/>
-		</td>
-	</tr>
 	<tr>
 		<td>
 			<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/result_wr.jpg"/>
@@ -17,6 +12,11 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/FPGA-CPU
 	<tr>
 		<td>
 			<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/FPGA-ARMblockdiagram.png"/>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/FPGA-CPU.jpg"/>
 		</td>
 	</tr>
 </table>

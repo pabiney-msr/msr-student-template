@@ -6,12 +6,10 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/baxter.j
 <table align="right">
 	<tr>
 		<td>
-			<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/baxter.jpg"/>
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<iframe class="project-image" align="right" src="https://www.youtube.com/embed/UzhP7HdbdNM" frameborder="0" allowfullscreen></iframe>
+		</td>
+		<td>
+			<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/baxter.jpg"/>
 		</td>
 	</tr>
 </table>
