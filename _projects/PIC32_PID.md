@@ -20,6 +20,7 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/NU32.png
 
 ## Overview
 Implement a Position-Integral-Differential (PID) Controller with a LED, a Photoresister, and a NU32. The NU32 interfaces with python on a host machine via usb cable to plot out the sampled ADC values.
+
 <b><i>Keywords: C, Python, PID, Mechatronics, PIC32, Microcontroller, Circuits</i></b>
 
 ### Tasks
