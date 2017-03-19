@@ -11,7 +11,7 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/baxter.j
 	</tr>
 	<tr>
 		<td>
-			<img class="project-image"src="https://pabiney-msr.github.io/msr-student-template/public/images/baxter.jpg"/>
+			<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/baxter.jpg"/>
 		</td>
 	</tr>
 </table>
