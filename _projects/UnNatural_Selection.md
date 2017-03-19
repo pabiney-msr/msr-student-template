@@ -4,10 +4,11 @@ title: UnNatural Selection
 image: https://pabiney-msr.github.io/msr-student-template/public/images/game-project-unnatural-selection.jpg
 ---
 <img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/game-project-unnatural-selection.jpg"/>
+<iframe class="project-image" align="right" width="400" height="300" src="https://www.youtube.com/embed/lxLnIZ8Q3b4" frameborder="0" allowfullscreen></iframe>
+<h1 id="project-title">{{ page.title }}</h1>
 ### Jan 2013 - May 2013
 
 ## Overview
-<iframe align="right" width="480" height="390" src="https://www.youtube.com/embed/lxLnIZ8Q3b4" frameborder="0" allowfullscreen></iframe>
 A 3D Hack-n-Slash game built on a custom engine. A single player plays as one of several woodland creatures that battles others in a fantasy forest arena.
 
 <b><i>Keywords: OOP, Visual Studio, C++, GLSL, FMOD 3, OpenGL, Hansoft, Shaders</i></b>

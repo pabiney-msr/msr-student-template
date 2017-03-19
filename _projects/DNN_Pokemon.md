@@ -4,6 +4,7 @@ title: Discerning and Completing Objectives with an Artificial Neural Network in
 image: https://pabiney-msr.github.io/msr-student-template/public/images/msr-winter-project.png
 ---
 <img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/msr-winter-project.png" />
+<h1 id="project-title">{{ page.title }}</h1>
 ### Jan 2017 - Mar 2017
 
 ## Overview

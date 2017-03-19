@@ -168,7 +168,7 @@ html {
     html body main.project section#contact-content {
       margin-top: 20px;
       overflow: auto; }
-      html body main.project section#contact-content img.project-image, {
+      html body main.project section#contact-content .project-image, {
         float: right;
         margin-bottom: 25px;
         margin-left: 25px;

@@ -5,6 +5,7 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/baxter.j
 ---
 <img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/baxter.png"/>
 <iframe class="project-image" align="right" width="480" height="390" src="https://www.youtube.com/embed/UzhP7HdbdNM" frameborder="0" allowfullscreen></iframe>
+<h1 id="project-title">{{ page.title }}</h1>
 ### Dec 2016
 
 ## Overview
