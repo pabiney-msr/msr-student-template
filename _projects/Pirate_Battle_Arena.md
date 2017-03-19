@@ -11,7 +11,7 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/kraken.p
 ## Overview
 An Unreal Engine 4 game prototype & proof of concept. Players would play as a pirate ship in a sea-based battle arena.
 
-<b><i>Keywords: Unreal Engine 4, C++, Ragdoll Physics, Microsoft Visual Studio, Amazon Web Services, WWise, Jenkins, Flocking AI, Component Architecture</i></b>
+<b><i>Keywords: Unreal Engine 4, C++, Ragdoll Physics, Microsoft Visual Studio, Amazon Web Services, OOP, WWise, Jenkins, Flocking AI, Component Architecture</i></b>
 
 ### Tasks
 * Implemented flocking behaviors for sea life.
