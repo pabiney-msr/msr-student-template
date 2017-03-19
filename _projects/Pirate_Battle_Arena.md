@@ -3,8 +3,18 @@ layout: project
 title: Pirate Battle Arena
 image: https://pabiney-msr.github.io/msr-student-template/public/images/kraken.png
 ---
-<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/kraken.png"/>
-<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/krakenvsland.png"/>
+<table align="right">
+	<tr>
+		<td>
+			<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/kraken.png"/>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/krakenvsland.png"/>
+		</td>
+	</tr>
+</table>
 <h1 id="project-title">{{ page.title }}</h1>
 ### Jul 2015 - Feb 2016
 

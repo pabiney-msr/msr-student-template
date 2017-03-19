@@ -3,8 +3,18 @@ layout: project
 title: Baxter Catan
 image: https://pabiney-msr.github.io/msr-student-template/public/images/baxter.jpg
 ---
-<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/baxter.jpg"/>
-<iframe class="project-image" align="right" src="https://www.youtube.com/embed/UzhP7HdbdNM" frameborder="0" allowfullscreen></iframe>
+<table align="right">
+	<tr>
+		<td>
+			<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/baxter.jpg"/>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<iframe class="project-image" align="right" src="https://www.youtube.com/embed/UzhP7HdbdNM" frameborder="0" allowfullscreen></iframe>
+		</td>
+	</tr>
+</table>
 <h1 id="project-title">{{ page.title }}</h1>
 ### Dec 2016
 

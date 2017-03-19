@@ -11,7 +11,7 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/NU32.png
 	</tr>
 	<tr>
 		<td>
-			<img class="project-image"src="https://pabiney-msr.github.io/msr-student-template/public/images/LEDGains.png"/>
+			<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/LEDGains.png"/>
 		</td>
 	</tr>
 </table>
