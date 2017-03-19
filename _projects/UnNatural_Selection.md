@@ -4,8 +4,8 @@ title: UnNatural Selection
 image: https://pabiney-msr.github.io/msr-student-template/public/images/game-project-unnatural-selection.jpg
 ---
 <div>
-	<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/game-project-unnatural-selection.jpg"/>
-<iframe class="project-image" align="right" width="400" height="300" src="https://www.youtube.com/embed/lxLnIZ8Q3b4" frameborder="0" allowfullscreen></iframe>
+	<img class="project-image" align="top-right" src="https://pabiney-msr.github.io/msr-student-template/public/images/game-project-unnatural-selection.jpg"/>
+<iframe class="project-image" align="top-right" width="400" height="300" src="https://www.youtube.com/embed/lxLnIZ8Q3b4" frameborder="0" allowfullscreen></iframe>
 </div>
 <h1 id="project-title">{{ page.title }}</h1>
 ### Jan 2013 - May 2013
