@@ -25,7 +25,7 @@ A 3D Hack-n-Slash game built on a custom engine. A single player plays as one of
 
 <a href="http://gameproject.fullsail.com/gpgames/index.php/2013/05/unnatural-selection/">Play Game</a>
 
-### Contribution
+### Tasks
 * Team Lead skills including team management & liaison to producers.
 * Successfully implemented hardware accelerated smooth skinning animations.
 * Made GLSL shaders for directional diffuse light cell shading, normal mapping, UV scrolling, multi-texturing, cell animation, glow mapping, dissolve, edge detection, bloom, motion blur.

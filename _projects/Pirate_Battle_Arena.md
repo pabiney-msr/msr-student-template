@@ -11,7 +11,7 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/kraken.p
 	</tr>
 	<tr>
 		<td>
-			<img class="project-image"  src="https://pabiney-msr.github.io/msr-student-template/public/images/krakenvsland.png"/>
+			<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/krakenvsland.png"/>
 		</td>
 	</tr>
 </table>

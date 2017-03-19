@@ -3,7 +3,13 @@ layout: project
 title: Field Service Group Vehicle Tracker
 image: https://pabiney-msr.github.io/msr-student-template/public/images/SharePoint.png
 ---
-<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/SharePoint.png"/>
+<table align="right">
+	<tr>
+		<td>
+			<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/SharePoint.png"/>
+		</td>
+	</tr>
+</table>
 <h1 id="project-title">{{ page.title }}</h1>
 ### Jul 2014 - Dec 2014
 

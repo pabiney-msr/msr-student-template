@@ -29,13 +29,13 @@ Implementation of a FPGA-CPU bridge for communication between a TI AM1808 ARM CP
 <b><i>Keywords: FPGA, Embedded CPU, Micro-Processor, MPU, ARM, EMIF, C, GCC</i></b>
 
 ### Tasks
-* Paired Programming
-* Debugging
-* Oscilloscope Probing
-* Presentations
-* Team Meetings
-* Weekly Updates
-* Paper
+* Paired Programming.
+* Debugging with teammate.
+* Oscilloscope Probing of pins.
+* Presentations of project.
+* Team Meetings.
+* Wrote Weekly Updates.
+* Contributed to Paper.
 
 ### Technologies Used
 * FPGA (Altera Cyclone IV)
