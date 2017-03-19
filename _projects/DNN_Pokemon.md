@@ -6,10 +6,10 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/msr-wint
 ### Jan 2017 - Mar 2017
 
 ## Overview
-An artificial neural network capable of playing Pokémon Red/Blue on the Nintendo GameBoy/GameBoy Color/GameBoy Advance emulator project known as VisualBoyAdvance-M (VBA-M).
+An artificial neural network project investigating Convolutional and Long Short Term Memory layers with TensorFlow and TFLearn in Python with the intention of playing Pokémon Red/Blue on the Nintendo GameBoy/GameBoy Color/GameBoy Advance emulator project known as VisualBoyAdvance-M (VBA-M) through screen capture and keystroke generation. 
 
 ## Keywords
-TFLearn, TensorFlow, Python, OpenCV, Matplotlib, Linux, Convolutional Neural Network (CNN), Long Short Term Memory (LSTM), Reinforcement Learning
+<b><i>TFLearn, TensorFlow, Python, OpenCV, Matplotlib, Linux, Convolutional Neural Network (CNN), Long Short Term Memory (LSTM), Reinforcement Learning</i></b>
 
 ### Work Done
 * Research of CNN, LSTM, Reinfrocement Learning, etc.
@@ -34,6 +34,9 @@ TFLearn, TensorFlow, Python, OpenCV, Matplotlib, Linux, Convolutional Neural Net
 * GitHub
 
 ## GitHub
-https://github.com/pabiney-msr/MSR_Winter_Project
+<a href="https://github.com/pabiney-msr/MSR_Winter_Project" />
 
 ## Paper
+<q>
+
+</q>

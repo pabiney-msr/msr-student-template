@@ -32,9 +32,5 @@ OOP, Visual Studio, C++, GLSL, FMOD 3, OpenGL, Hansoft, Shaders
 ### YouTube
 <iframe width="480" height="390" src="https://www.youtube.com/embed/lxLnIZ8Q3b4" frameborder="0" allowfullscreen></iframe>
 
-### Review
-<a href="http://www.fullsailblog.com/play-three-new-games-from-mays-final-presentations" />
-
-
 ### Game
 <a href="http://gameproject.fullsail.com/gpgames/index.php/2013/05/unnatural-selection/" />
