@@ -11,7 +11,7 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/msr-wint
 	</tr>
 	<tr>
 		<td>
-			<img class="project-image" src="" />
+			<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/" />
 		</td>
 	</tr>
 </table>
@@ -49,4 +49,4 @@ An artificial neural network project investigating Convolutional and Long Short 
 <q>
 
 </q>
-<a href="">Read More</a>
+<a href="https://pabiney-msr.github.io/msr-student-template/public/papers/">Read More</a>

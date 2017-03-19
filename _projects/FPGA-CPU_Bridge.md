@@ -46,12 +46,5 @@ Implementation of a FPGA-CPU bridge for communication between a TI AM1808 ARM CP
 * GCC
 
 ### Paper
-<a href="">Read More</a>
-<q>
-
-</q>
-
-### Kernel Module Sample
-<q>
-
-</q>
+<q> Many embedded devices are designed around the concept of heterogeneous computing for both speed and power consumption reasons. Often this will lead to systems containing a primary compute unit (a CPU), and a secondary compute unit that acts as a co-processor, where the two are connected through some variant of a system bus. The most notable example of this would be the standard CPU-GPU model seen in laptop and desktop computers. In more specialized cases, such as test instrumentation, the model will often take the form of CPU-FPGA, where the primary compute unit is a low power embedded processor. In the context of test instrumentation, this model allows for real-time data streaming from sensors to be processed by the FPGA, and then presented to the user by way of the CPU. The design and implementation of such a system, however, is non-trivial, requiring custom software solutions to properly bridge the CPU-FPGA gap.</q>
+<a href="https://pabiney-msr.github.io/msr-student-template/public/papers/EECS495_FPGA_MPU_Project.pdf">Read More</a>
