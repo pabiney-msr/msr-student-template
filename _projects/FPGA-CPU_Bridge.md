@@ -6,17 +6,17 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/result_w
 <table align="right">
 	<tr>
 		<td>
-			<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/result_wr.jpg"/>
+			<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/result_wr.jpg"/>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/FPGA-ARMblockdiagram.png"/>
+			<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/FPGA-ARMblockdiagram.png"/>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img class="project-image" align="right" src="https://pabiney-msr.github.io/msr-student-template/public/images/FPGA-CPU.jpg"/>
+			<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/FPGA-CPU.jpg"/>
 		</td>
 	</tr>
 </table>
