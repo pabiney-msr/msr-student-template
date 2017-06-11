@@ -1,22 +1,22 @@
 ---
 layout: project
 title: Spring Project
-image: https://pabiney-msr.github.io/msr-student-template/public/images/printer.png
+image: https://pabiney-msr.github.io/msr-student-template/public/images/printer.jpg
 ---
 <table align="right">
 	<tr>
 		<td>
-			<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/printer.png" />
+			<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/printer.jpg" />
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/printerScreen.png" />
+			<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/printerScreen.jpg" />
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/powerSupply.png" />
+			<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/powerSupply.jpg" />
 		</td>
 	</tr>
 </table>
