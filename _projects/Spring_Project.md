@@ -11,6 +11,11 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/Printer.
 	</tr>
 	<tr>
 		<td>
+			<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/printerCircuit.jpg" />
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/printerScreen.jpg" />
 		</td>
 	</tr>
