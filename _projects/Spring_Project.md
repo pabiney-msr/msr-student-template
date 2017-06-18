@@ -35,7 +35,7 @@ In addition to assembling the printer, the firmware was not natively installed a
 
 Addionally the board was set up out of the box to not allow USB programming of the arduino-clone board. This was caused by the DC pins being connected together rather than the USB pins being connected together. The firmware also needs to be installed before anything is connected to the board. The board is capable of being powered by the USB port, making teh external power supply redundant. In fact, the external power supply came with no documentation and is for the optional heated bed. The optional heated bed is unable to be attached in the kit without ordering additional parts as the glass plate cannot be affixed attop it securely.
 
-<b><i>Keywords: 3-D Printing, Arduino, Stepper Motors, C/C++</i></b>
+<b><i>Keywords: 3-D Printing, Arduino IDE, ArduinoMEGA, Stepper Motors, C/C++, Linux, Windows, ANYCUBIC, Circuits, H-Brdige</i></b>
 <br>
 <a href="https://github.com/pabiney-msr/MSR_Final_Project">GitHub</a>
 
