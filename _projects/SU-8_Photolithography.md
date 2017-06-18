@@ -1,12 +1,12 @@
 ---
 layout: project
 title: Experiments in Photolithography with SU-8 Photoresist
-image: https://pabiney-msr.github.io/msr-student-template/public/images/photolithography_squares.png
+image: https://pabiney-msr.github.io/msr-student-template/public/images/Photolithography_squares.png
 ---
 <table align="right">
 	<tr>
 		<td>
-			<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/photolithography_squares.png" />
+			<img class="project-image" src="https://pabiney-msr.github.io/msr-student-template/public/images/Photolithography_squares.png" />
 		</td>
 	</tr>
 	<tr>
