@@ -1,6 +1,6 @@
 ---
 layout: project
-title: PIC32-MCP4902DAC Sin and Tri Waves Over SPI
+title: PIC32 PWM
 image: https://pabiney-msr.github.io/msr-student-template/public/images/PIC32_Circuit.jpg
 ---
 <table align="right">
