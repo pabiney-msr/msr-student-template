@@ -1,7 +1,7 @@
 ---
 layout: project
 title: PDMS Microchannel Fabrication
-image: https://pabiney-msr.github.io/msr-student-template/public/images/PDM_numbers.png
+image: https://pabiney-msr.github.io/msr-student-template/public/images/PDMS_numbers.png
 ---
 <table align="right">
 	<tr>
