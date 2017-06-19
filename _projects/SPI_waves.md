@@ -1,7 +1,7 @@
 ---
 layout: project
 title: PIC32-MCP4902DAC Sin and Tri Waves Over SPI
-image: https://pabiney-msr.github.io/msr-student-template/public/images/.png
+image: https://pabiney-msr.github.io/msr-student-template/public/images/MCP4902DAC_circuit.png
 ---
 <table align="right">
 	<tr>
