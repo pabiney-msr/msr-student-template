@@ -21,7 +21,7 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/MCP4902D
 	</tr>
 	<tr>
 		<td>
-    		<video width="320" height="240" poster="https://pabiney-msr.github.io/msr-student-template/public/images/sin_tri_waves.png" controls>
+    		<video controls>
                 <source src="https://pabiney-msr.github.io/msr-student-template/public/videos/sin_tri_waves.mp4" type="video/mp4">
             </video>
 		</td>
@@ -33,7 +33,7 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/MCP4902D
 ## Overview
 Generate Sin and Tri waves digitally on a PIC32 and then send those waves to a MCP4902DAC.
 
-<b><i>Keywords: C, Mechatronics, PIC32, Microcontroller, Circuits, MCP4902DAC, Tri Waves, Sin Waves</i></b>
+<b><i>Keywords: C, PIC32, Microcontroller, Circuits, MCP4902DAC, Tri Waves, Sin Waves</i></b>
 
 ### Tasks
 * 
