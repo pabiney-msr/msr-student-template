@@ -7,8 +7,14 @@ title: Portfolio
 	<h1 class="page-header">Portfolio</h1>
 	<section>
 		<div id="portfolio-gallery">
-			{% assign sorted_pages = site.projects | sort:"path" %}
-			{% for project in sorted_pages %}
+		    
+			{% assign myarray = site.emptyArray %}
+			{% for i in (1..site.projects.size) %}
+			    {% myarray.push(i) %}
+            {% endfor %}
+            {% while myarray.size >= 2 %}
+			    {% assign random = site.time | date: "%s%N" | modulo: myarray.size %}
+			    {% assign project = site.projects[myarray[random]] %}
 			<div class="container">
 				<div class="aspect-ratio-keeper"> </div>
 				<div class="content">
@@ -25,7 +31,8 @@ title: Portfolio
 					</a>
 				</div>
 			</div>
-			{% endfor %}
+			    {% myarray.pop(random) %}
+			{% endwhile %}
 		</div>
 	</section>
 </main>
