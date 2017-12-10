@@ -5,7 +5,8 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/Stepper_
 ---
 <table align="right">
 	<tr>
-		<td><video controls>
+		<td>
+			<video controls>
                 <source src="https://pabiney-msr.github.io/msr-student-template/public/videos/FPGA-Stepper.mp4" type="video/mp4">
             </video>
 		</td>
