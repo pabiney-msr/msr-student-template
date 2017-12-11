@@ -1,13 +1,13 @@
 ---
 layout: project
 title: Final Project
-image: https://pabiney-msr.github.io/msr-student-template/public/images/Stepper_FPGA.jpg
+image: https://pabiney-msr.github.io/msr-student-template/public/images/3DPrinter-FPGA.jpg
 ---
 <table align="right">
 	<tr>
 		<td>
 			<video controls>
-                <source src="https://pabiney-msr.github.io/msr-student-template/public/videos/FPGA-Stepper.mp4" type="video/mp4">
+                <source src="https://pabiney-msr.github.io/msr-student-template/public/videos/FPGA_3D_PRINTER.mp4" type="video/mp4">
             </video>
 		</td>
 	</tr>
@@ -26,7 +26,7 @@ image: https://pabiney-msr.github.io/msr-student-template/public/images/Stepper_
 ### Jun 2017 - Dec 2017
 
 ## Overview
-This fall project is a part of the final project for Northwestern's MSR program and a continuation from the Spring Project. This stage of the progect involved creating modules in verilog for the stepper mottor controllers, fans, thermistor, analog to digital converter, hotend, endswitched, and debug LEDs. Various specificaions for the ANYCUBIC kit were researched and additional components were ordered. Circuit Diagrams for various components were created. The FPGA was rudementally integrated with the kit replacing the existing Arduino board of the ANYCUBIC kit.
+This fall project is a part of the final project for Northwestern's MSR program and a continuation from the Spring Project. This stage of the progect involved creating modules in verilog for the stepper mottor controllers, fans, thermistor, analog to digital converter, hotend, endswitched, and debug LEDs. Various specificaions for the ANYCUBIC kit were researched and additional components were ordered. Circuit diagrams for various components were created. The FPGA was rudementally integrated with the kit replacing the existing Arduino board of the ANYCUBIC kit.
 
 <b><i>Keywords: 3-D Printing, A4988, Stepper Motors, Verilog, Linux, Windows, ANYCUBIC, Circuits, FPGA</i></b>
 <br>
